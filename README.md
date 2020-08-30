@@ -1,4 +1,7 @@
 # Chat-App-UI
+
+Created a Chat App UI using Guna2 Framework
+
 ## Requirement 
 
 *Visual Studio
@@ -9,9 +12,8 @@
 ## Gif
 
 ![](https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif)
-<img src="https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif" width="40" height="40" />
+<img src="https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif" width="50" height="50" />
 
-Created a Chat App UI using Guna2 Framework
 
 link of UI:
 
