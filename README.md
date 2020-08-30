@@ -9,13 +9,15 @@ Created a Chat App UI using Guna2 Framework
 *Guna2 Framkework
 
 *Faker
+
+## Image 
+![](https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat%20App.jpg)
+
 ## Gif
 
 ![](https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif)
 <img src="https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif" width="50" height="50" />
 
-## Image 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 link of UI:
