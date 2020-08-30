@@ -1,6 +1,8 @@
 # Chat-App-UI
 
-Created a Chat App UI using Guna2 Framework
+Created a Chat App UI using Guna2 Framework.
+
+Language used - C#
 
 ## Requirement 
 
