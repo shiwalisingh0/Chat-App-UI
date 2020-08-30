@@ -19,7 +19,3 @@ Created a Chat App UI using Guna2 Framework
 <img src="https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif" width="50" height="50" />
 
 
-
-link of UI:
-
-https://drive.google.com/file/d/1yjKMkBz0I64WOTY7inqGcNSlXKyOZmdC/view?usp=sharing
