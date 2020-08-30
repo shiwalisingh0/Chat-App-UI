@@ -1,8 +1,12 @@
 # Chat-App-UI
-Requirement 
+## Requirement 
+
 *Visual Studio
+
 *Guna2 Framkework
+
 *Faker
+## Gif
 
 ![alt-text]
 (https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif)
