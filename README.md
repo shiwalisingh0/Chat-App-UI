@@ -8,8 +8,7 @@
 *Faker
 ## Gif
 
-![alt-text]
-(https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif)
+![](https://github.com/shiwalisingh0/Chat-App-UI/blob/master/Chat-app-UI.gif)
 
 Created a Chat App UI using Guna2 Framework
 
